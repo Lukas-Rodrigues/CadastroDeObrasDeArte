@@ -1,0 +1,8 @@
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\obj\Debug\CadastroDeObrasDeArte.csproj.AssemblyReference.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\obj\Debug\CadastroDeObrasDeArte.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\obj\Debug\CadastroDeObrasDeArte.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\bin\Debug\CadastroDeObrasDeArte.exe.config
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\bin\Debug\CadastroDeObrasDeArte.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\bin\Debug\CadastroDeObrasDeArte.pdb
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\obj\Debug\CadastroDeObrasDeArte.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\CadastroDeObrasDeArte\CadastroDeObrasDeArte\obj\Debug\CadastroDeObrasDeArte.pdb
